@@ -1,5 +1,6 @@
 # Snake-AI
 ### By Norsang & Tsewang
 <!-- Image Format -->
-![Snake AI](https://techs0uls.files.wordpress.com/2020/01/single_snake-1.jpg?w=437)
+![Snake AI](https://miro.medium.com/max/1006/1*BvFBX6oWUm7OXx37lajh-A.png)
+))
 
