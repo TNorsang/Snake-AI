@@ -1,5 +1,5 @@
 # Snake-AI
 ### By Norsang & Tsewang
 <!-- Image Format -->
-![Snake AI]([https://myoctocat.com/assets/images/base-octocat.svg](https://craighaber.github.io/AI-for-Snake-Game/website_files/media/snake_space.png))
+![Snake AI](https://techs0uls.files.wordpress.com/2020/01/single_snake-1.jpg?w=437)
 
