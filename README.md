@@ -1,2 +1,2 @@
 # Snake-AI
-## By Norsang & Tsewang
+### By Norsang & Tsewang
